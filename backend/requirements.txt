@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+python-dateutil
+chardet
+numpy
+pydantic
+pytest
+httpx
