@@ -1,0 +1,27 @@
+RAW:
+{
+  "risk_categories": {
+    "regulatory": -20.5,
+    "operational": -15.6,
+    "market": -30.2,
+    "financial": -25.9,
+    "technology": -10.1
+  },
+  "new_risks": ["Government policy changes", "Global economic downturn"],
+  "removed_risks": ["None"],
+  "sentiment_delta": -5.2,
+  "urgency_score": 60.1,
+  "key_phrases": [
+    "DCX Systems Limited",
+    "Q4 FY '25 Earnings Conference Call",
+    "RoDTEP scheme",
+    "Indian Defense industry",
+    "Lockheed Martin Global USA",
+    "Elta Systems Israel",
+    "Make in India",
+    "Defense Industrial License",
+    "MOD",
+    "Raneal Advanced Systems"
+  ],
+  "summary": "DCX Systems Limited faces regulatory and market risks due to government policy changes and global economic downturn, but has a strong growth trajectory with new orders from Lockheed Martin and Elta Systems. The company's subsidiary Raneal received a Defense Industrial License, a significant milestone."
+}

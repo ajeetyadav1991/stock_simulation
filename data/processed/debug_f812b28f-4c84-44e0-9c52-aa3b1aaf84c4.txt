@@ -1,0 +1,27 @@
+RAW:
+{
+  "risk_categories": {
+    "regulatory": -20.5,
+    "operational": -15.1,
+    "market": -30.8,
+    "financial": -25.5,
+    "technology": -10.3
+  },
+  "new_risks": ["Government policy changes", "Global economic downturn", "Supply chain disruptions"],
+  "removed_risks": ["None"],
+  "sentiment_delta": -5.7,
+  "urgency_score": 60.2,
+  "key_phrases": [
+    "DCX Systems Limited",
+    "Q4 FY '25 Earnings Conference Call",
+    "RoDTEP scheme",
+    "Indian Defense industry",
+    "Lockheed Martin Global USA",
+    "Elta Systems Israel",
+    "Make in India",
+    "Defense Industrial License",
+    "MOD",
+    "Raneal Advanced Systems"
+  ],
+  "summary": "DCX Systems Limited faces regulatory, operational, and market risks due to government policy changes, global economic downturn, and supply chain disruptions. The company's growth trajectory is strong, with new orders from Lockheed Martin and Elta Systems. The RoDTEP scheme and Make in India initiative are expected to benefit the company."
+}

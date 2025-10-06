@@ -1,0 +1,19 @@
+RAW:
+{
+  "risk_categories": {
+    "regulatory": -20.5,
+    "operational": -15.8,
+    "market": -30.2,
+    "financial": -25.9,
+    "technology": -10.1
+  },
+  "new_risks": ["Geopolitical risks in Africa", "Supply chain disruptions"],
+  "removed_risks": ["Currency fluctuation risks"],
+  "sentiment_delta": -5.1,
+  "urgency_score": 50.8,
+  "key_phrases": [
+    "revenue growth", "EBITDA margin expansion", "project execution", "operational discipline", "order book visibility",
+    "transmission lines", "substations", "railway electrification", "rural electrification", "multilateral funding"
+  ],
+  "summary": "Transrail Lighting Limited's Q4 FY '25 earnings call highlights strong revenue growth and EBITDA margin expansion, driven by disciplined project execution and robust order book visibility, despite operational and regulatory risks."
+}

@@ -1,0 +1,18 @@
+RAW:
+{
+  "risk_categories": {
+    "regulatory": -20.5,
+    "operational": -15.1,
+    "market": -30.8,
+    "financial": -25.5,
+    "technology": -10.3
+  },
+  "new_risks": ["Capacity expansion risks", "Geopolitical risks in Africa"],
+  "removed_risks": ["None"],
+  "sentiment_delta": -5.2,
+  "urgency_score": 50.8,
+  "key_phrases": [
+    "Robust growth in revenue", "Profitability and order intake", "Core T&D segment", "Order book mix", "Credit ratings upgrade", "Capacity expansion", "Geographical presence"
+  ],
+  "summary": "Transrail Lighting Limited's Q1 FY26 earnings call indicates robust growth in revenue and profitability, with a strong order book and credit ratings upgrade. However, the company faces risks related to capacity expansion and geopolitical uncertainties in Africa. Overall sentiment remains positive despite some concerns."
+}

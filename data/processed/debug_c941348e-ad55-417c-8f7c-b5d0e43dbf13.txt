@@ -1,0 +1,19 @@
+RAW:
+{
+  "risk_categories": {
+    "regulatory": -20.5,
+    "operational": -15.8,
+    "market": -30.2,
+    "financial": -25.1,
+    "technology": -10.9
+  },
+  "new_risks": ["Dependence on government contracts", "Intense competition in the EPC industry"],
+  "removed_risks": [],
+  "sentiment_delta": -5.2,
+  "urgency_score": 50.8,
+  "key_phrases": [
+    "power T&D", "engineering procurement and construction", "integrated manufacturing facilities", "turnkey solutions", "business operations diversification",
+    "transmission lines", "substations", "underground cabling", "distribution work", "civil construction"
+  ],
+  "summary": "Transrail Lighting Limited faces regulatory and operational risks due to its dependence on government contracts and intense competition in the EPC industry. The company's diversified business operations and integrated manufacturing facilities are key strengths. Overall sentiment remains cautious due to market and financial risks."
+}
